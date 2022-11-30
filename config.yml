@@ -1,6 +1,6 @@
 baseURL: https://bershatsky.net/
 languageCode: en-us
-title: Bershatsky Photo
+title: Bershatsky Blog
 theme: "PaperMod"
 paginate: 20
 
@@ -27,23 +27,23 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
+                - name: 🗄️
                   url: archives
                   weight: 5
-                - name: Search
+                - name: 🔍
                   url: search
                   weight: 10
-                - name: Categories
+                - name: 📖
                   url: categories
                   weight: 15
-                - name: Tags
+                - name: 🏷️
                   url: tags
                   weight: 20
                 - name: 🤓
                   url: nerdy-notes
                   weight: 25
-                - name: Links
-                  url: https://links.bershatsky.com/
+                - name: 🔗
+                  url: links
                   weight: 30
 
 outputs:
@@ -55,7 +55,7 @@ outputs:
 params:
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    description: "A nerdy blog (mostly) about photography."
     # author: Theme PaperMod
     # author: ["Me", "You"] # multiple authors
 
