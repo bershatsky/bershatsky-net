@@ -67,13 +67,3 @@ comments: false
 ShowToc: false
 TocOpen: false
 ```
-
----
-
-## Updating the PaperMod Theme
-
-On my local machine, I need to be at a command line within the PaperMod directory, then use this command:
-
-```
-git submodule update --remote --merge
-```
