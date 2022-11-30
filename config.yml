@@ -1,6 +1,6 @@
 baseURL: https://bershatsky.net/
 languageCode: en-us
-title: Bershatsky Blog
+title: Bershatsky
 theme: "PaperMod"
 paginate: 20
 
@@ -27,22 +27,22 @@ languages:
           series: series
         menu:
             main:
-                - name: 🗄️
+                - name: Archives
                   url: archives
                   weight: 5
-                - name: 🔍
+                - name: Search
                   url: search
                   weight: 10
-                - name: 📖
+                - name: Categories
                   url: categories
                   weight: 15
-                - name: 🏷️
+                - name: Tags
                   url: tags
                   weight: 20
-                - name: 🤓
+                - name: Nerdy Notes
                   url: nerdy-notes
                   weight: 25
-                - name: 🔗
+                - name: Links
                   url: links
                   weight: 30
 
@@ -87,10 +87,10 @@ params:
             - name: Tags
               url: tags
 
-  #  homeInfoParams:
-        Title: "Bershatsky Photo"
+    homeInfoParams:
+        Title: "Noah Bershatsky"
         Content: >
-            A nerdy blog (mostly) about photography.
+            I was a nerd before hipsters were cool.
 
     socialIcons:
         - name: flickr
