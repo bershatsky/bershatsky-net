@@ -27,8 +27,8 @@ languages:
           series: series
         menu:
             main:
-                - name: Archives
-                  url: archives
+                - name: Archive
+                  url: archive
                   weight: 5
                 - name: Search
                   url: search
@@ -43,7 +43,7 @@ languages:
                   url: nerdy-notes
                   weight: 25
                 - name: Links
-                  url: links
+                  url: https://links.bershatsky.com
                   weight: 30
 
 outputs:
@@ -87,7 +87,7 @@ params:
             - name: Tags
               url: tags
 
-    homeInfoParams:
+    #homeInfoParams:
         Title: "Noah Bershatsky"
         Content: >
             I was a nerd before hipsters were cool.
