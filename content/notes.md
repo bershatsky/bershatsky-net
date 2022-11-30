@@ -1,9 +1,9 @@
 ---
-title: "🤓 Nerdy Notes 🤓"
+title: "Notes"
 type: page
 date: 2022-11-27T17:00:00
 ---
-Hugo uses  markdown. Since I'm no expert, this page will act as a reference for future posts. Perhaps you'll find it useful as well.
+Hugo uses markdown. Since I'm no expert, this page will act as a reference for future posts. Perhaps you'll find it useful as well.
 
 ## Front Matter for Posts
 ```

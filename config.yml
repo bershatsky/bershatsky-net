@@ -39,8 +39,8 @@ languages:
                 - name: Tags
                   url: tags
                   weight: 20
-                - name: Nerdy Notes
-                  url: nerdy-notes
+                - name: Notes
+                  url: notes
                   weight: 25
                 - name: Links
                   url: https://links.bershatsky.com
